@@ -1,4 +1,4 @@
-Data Structures and Algorithms (C++)
+Data structures and algorithms (C++)
 ====================================
 
 ## Overview
